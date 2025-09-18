@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Salut, je suis Cyber-Enzo
 
-<!--
-**Cyber-Enzo/Cyber-Enzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiant en cybersécurité passionné par le pentesting et le purple teaming
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil GitHub !  
+Je me spécialise dans la **cybersécurité**, avec une vraie passion pour le **pentesting** et le **purple team**. J’aime explorer les failles, comprendre les attaques et renforcer la sécurité des systèmes.  
+Au fil de mon parcours, j’ai aussi développé des compétences solides sur Linux et ses distributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Compétences techniques
+
+- **Linux** & distributions associées
+- Pentesting & sécurité offensive
+- Purple teaming (offensif & défensif)
+- *(En cours : mise en place de services, sauvegardes, redondance, sécurisation)*
+
+---
+
+### 🚀 Projets majeurs
+
+- [**Portfolio**](https://github.com/Cyber-Enzo/portfolio)  
+  Présentation de mon parcours, de mes compétences et de mes expérimentations en cybersécurité.
+
+- [**Docs-SISR**](https://github.com/Cyber-Enzo/Docs-SISR)  
+  Documentation et notes sur l’administration système et la sécurité informatique.
+
+---
+
+Merci de votre visite !
